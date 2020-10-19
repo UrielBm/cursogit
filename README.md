@@ -1,2 +1,2 @@
-# cursogit
-primer curso de git
+# Prueba
+primer curso de git en rama prueba
